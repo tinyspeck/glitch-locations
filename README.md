@@ -2,7 +2,7 @@
 
 <a href="http://www.glitch.com">Glitch</a> was a browser-based MMO created by 
 <a href="http://tinyspeck.com">Tiny Speck</a>. This repository contains the
-source code for the game's customizable avatars.
+artwork and source code for all of the locations in the game.
 
 ## License ##
 
